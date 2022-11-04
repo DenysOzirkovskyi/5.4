@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+F:\Student\5.4\UnitTest1\UnitTest1.cpp(15,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> F:\Student\5.4\x64\Debug\UnitTest1.dll
